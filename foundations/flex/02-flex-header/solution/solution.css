@@ -1,6 +1,10 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .logo {
@@ -27,10 +31,7 @@ a {
 /* SOLUTION */
 
 .header {
-  padding: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  
 }
 
 ul {
